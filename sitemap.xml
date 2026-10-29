@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://www.oaklyninteriors.in/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.oaklyninteriors.in/images/hero-luxury-living-room.jpg</image:loc>
+      <image:title>Oaklyn Interiors Luxury Living Room with Timber Slat Ceiling</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.oaklyninteriors.in/images/kitchen-modular-breakfast-counter.jpg</image:loc>
+      <image:title>Oaklyn Modular Kitchen with Fluted Breakfast Counter</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.oaklyninteriors.in/images/master-suite-hardwood-wardrobe.jpg</image:loc>
+      <image:title>Oaklyn Master Bedroom Suite with Hardwood Flooring and High Gloss Wardrobe</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.oaklyninteriors.in/images/facility-homag-edgebander.jpg</image:loc>
+      <image:title>HOMAG Precision Edge Banding Machine at Oaklyn Interiors Kakkodi Plant</image:title>
+    </image:image>
+  </url>
+</urlset>
